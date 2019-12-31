@@ -1,6 +1,8 @@
 # DataVizProjetcsWithPython
 #Source of Data:Kaggle 
+
 https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016
+
 Features and descriptions of the data set
 
 country: Contains the names of the various countries (objects)
